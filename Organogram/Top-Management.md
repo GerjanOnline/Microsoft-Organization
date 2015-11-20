@@ -1,5 +1,9 @@
-# Top Management of Microsoft
+# Top Management of Microsoft (Development)
 
+## Hierarchy
+Todo
+
+## Members
 Satya Nadella
 > Chief Executive Officer (CEO)
 
@@ -21,7 +25,7 @@ John Montgomery
 > Director of Program Management at Microsoft  
 > Partner Director of Program Management (LinkedIn)
 
-# Links
+## Links
 * https://news.microsoft.com/microsoft-senior-leaders/
 * https://weblogs.asp.net/scottgu/about
 * http://blogs.msdn.com/b/stevengu/about.aspx
