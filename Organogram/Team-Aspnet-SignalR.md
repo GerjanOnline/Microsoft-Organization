@@ -19,8 +19,8 @@ Pawel Kadluczka (https://github.com/moozzyk)
 Xiaohong Tang (https://github.com/Xiaohongt)  
 
 Not sure:  
-Pranav K (https://github.com/pranavkm)
-Doug Bunting (https://github.com/dougbu)
+Pranav K (https://github.com/pranavkm)  
+Doug Bunting (https://github.com/dougbu)  
 Cesar Blum Silveira (https://github.com/cesarbs)
 
 ## Links
