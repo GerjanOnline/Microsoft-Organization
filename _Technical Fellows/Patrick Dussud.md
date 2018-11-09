@@ -1,6 +1,6 @@
 # Patrick Dussud
 
-Creator of .NET (GC/Runtime)
+Creator of .NET (GC/CLR)
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/patrick-dussud-47907830/
